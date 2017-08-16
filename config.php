@@ -21,6 +21,6 @@ switch ($nome_pagina) {
        $nome_pagina = "/contato";
         break;
     default:
-        $nome_pagina = "/404";
+        $nome_pagina = "/home";
         break;
 }
