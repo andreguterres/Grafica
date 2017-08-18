@@ -3,7 +3,7 @@
 <title>Gráfica</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Site modelo para gráfica">
-<meta name="author" content="Flavio Moreira">
+<meta name="author" content="Flavio Moreira & André">
 
 <!-- google web fonts -->
 <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,300italic,500,400italic,700' rel='stylesheet' type='text/css'>
@@ -17,7 +17,7 @@
 <link href="./css/custom.css" rel="stylesheet">
 
 <!-- standart theme css -->
-<link rel="stylesheet" id="theme" href="./css/theme1.css" type="text/css" />
+<link rel="stylesheet" id="theme" href="./css/theme2.css" type="text/css" />
 
 <!-- Font Awesome Icons css -->
 <link rel="stylesheet" href="./font-awesome/css/font-awesome.min.css">
@@ -37,7 +37,7 @@
 
 <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 <!--[if lt IE 9]>
-  <script src="../js/html5shiv.js"></script>
+  <script src="../js/html5shiv.js"></script>Aa
 <![endif]-->
 
 <!-- Fav and touch icons -->

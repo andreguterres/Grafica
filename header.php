@@ -16,7 +16,7 @@
             <ul class="nav navbar-nav" id="navigation">
                 <li><a href="home">Home</a></li>
                 <li><a href="sobre-empresa">Sobre</a></li>
-                <li><a href="servico">Servicos</a></li>
+                <li><a href="servico">Serviços</a></li>
                 <li><a href="produto">Produtos</a></li>
                 <li><a href="contato">Contato</a></li>
             </ul>
