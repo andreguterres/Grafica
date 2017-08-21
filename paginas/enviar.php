@@ -2,7 +2,7 @@
 
 // Get the Values from the Contact form
 $EmailFrom = "Website Contact Form";
-$EmailTo = "info@fabianbentz.de";    // insert your email address here
+$EmailTo = "andre.lepesteur@gmail.com,flaviorsm@gmail.com";    // insert your email address here
 $Subject = "YOUR SUBJECT HERE"; // insert your Subject here
 $name = Trim(stripslashes($_POST['name'])); 
 $email = Trim(stripslashes($_POST['email'])); 
