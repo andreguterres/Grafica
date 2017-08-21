@@ -11,7 +11,7 @@
                 <span class="icon-bar"></span>
             </button>
         </div>
-        <!-- MENU LINKS -->
+        <!-- Links do Menu -->
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav" id="navigation">
                 <li><a href="home">Home</a></li>

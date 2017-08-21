@@ -59,11 +59,11 @@
 <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="./js/bootstrap.min.js"></script>
 
-<!-- CUSTOM JAVASCRIPT -->
+<!-- Personalização JavaScript -->
 <!-- Custom Functions -->
 <script type="text/javascript" src="./js/functions.js"></script> 
 
-<!-- Portfolio with mixitup filter and prettyphoto -->
+<!-- Filtro Portfolio-->
 <script type="text/javascript" src="./js/jquery.mixitup.min.js"></script> 
 <!-- Magnific Popup core JS file -->
 <script type="text/javascript" src="./js/magnific.js"></script>
@@ -71,23 +71,23 @@
 <!-- BxSlider -->
 <script type="text/javascript" src="./js/jquery.bxslider.min.js"></script>
 
-<!-- Sequence Slider -->
+<!-- Sequencia Slider -->
 <script type="text/javascript" src="./js/jquery.sequence-min.js"></script>
 
-<!-- Parallax Background -->
+<!-- Fundo Parallax  -->
 <script type="text/javascript" src="./js/nbw-parallax.js"></script>
 <script type="text/javascript" src="./js/jquery.inview.js"></script>
 
-<!-- Smooth Scrolling -->
+<!-- Rolagem -->
 <script type="text/javascript" src="./js/smoothscroll.js"></script>
 
-<!-- Sticky Navigation --> 
+<!-- Navegação --> 
 <script type="text/javascript" src="./js/jquery.sticky.js"></script>
 
-<!-- Style Switcher --> 
+<!-- Estilo  --> 
 <script type="text/javascript" src="./js/jquery.style-switcher.js"></script>
 
-<!-- Clients Slider -->
+<!-- Slide de cliente -->
 <script type="text/javascript" src="./js/jquery.flexisel.js"></script>
 
 <!-- Retina JS -->

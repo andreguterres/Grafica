@@ -1,8 +1,8 @@
 <?php
 
-// Get the Values from the Contact form
+// Acessa os valores dos formulário de contato
 $EmailFrom = "Website Contact Form";
-$EmailTo = "andre.lepesteur@gmail.com,flaviorsm@gmail.com";    // insert your email address here
+$EmailTo = "andre.lepesteur@gmail.com,flaviorsm@gmail.com";    //E-mail de contato
 $Subject = "YOUR SUBJECT HERE"; // insert your Subject here
 $name = Trim(stripslashes($_POST['name'])); 
 $email = Trim(stripslashes($_POST['email'])); 
@@ -10,7 +10,7 @@ $phone = Trim(stripslashes($_POST['phone']));
 $message = Trim(stripslashes($_POST['message'])); 
 
 
-// Assign the values to the variables for the email
+// Atribuições dos valores ás variáveis. 
 $Body = "";
 
 $Body .= "name: ";
@@ -33,10 +33,10 @@ $Body .= "message: ";
 
 $Body .= "\n";
 
-// Send mail 
+// Envio de e-mail
 $success = mail($EmailTo, $Subject, $Body, "From: <$EmailFrom>");
 
-// If success , redirect to index.html
+// Condicional de redicionamento para a index.html.
 if ($success){
   print "<meta http-equiv=\"refresh\" content=\"0;URL=index.html\">";
 }

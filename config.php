@@ -1,6 +1,6 @@
 <?php
 
-/* @var $_SERVER type */
+
 $endereco = $_SERVER['REQUEST_URI'];
 $nome_pagina = strrchr($endereco, "/");
 
